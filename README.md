@@ -8,7 +8,7 @@ How to use it:
 
 Download the following shell script on your Ubuntu server or clone it with the following command.
 ```
-git clone https://github.com/arbabnazar/Automated-LAMP-Installation.git
+git clone https://github.com/krishnawattamwar/LAMP_script.git
 ```
 Give the execution right to it.
 ------------------------------
